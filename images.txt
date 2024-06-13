@@ -1,1 +1,1 @@
-jxxghp/nas-tools
+ddsderek/nas-tools:lite
