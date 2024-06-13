@@ -1,1 +1,1 @@
-reader:latest
+whyour/qinglong:latest
