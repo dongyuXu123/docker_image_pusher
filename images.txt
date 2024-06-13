@@ -1,1 +1,1 @@
-jxxghp/nas-tools:latest
+reader:latest
