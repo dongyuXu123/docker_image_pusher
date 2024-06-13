@@ -1,1 +1,1 @@
-reader:latest
+reader
