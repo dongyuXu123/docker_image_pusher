@@ -1,1 +1,1 @@
-gotson/komga
+reader:latest
