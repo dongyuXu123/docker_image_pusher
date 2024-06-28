@@ -1,1 +1,1 @@
-whyour/qinglong:latest
+linuxserver/jackett:latest
