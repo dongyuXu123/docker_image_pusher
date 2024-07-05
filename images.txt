@@ -1,5 +1,1 @@
-linuxserver/plex
-linuxserver/overseerr
-linuxserver/transmission
-linuxserver/sonarr
-linuxserver/radarr
+xiaoyaliu/alist:hostmode
